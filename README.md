@@ -20,7 +20,7 @@ Data Governance: PII Protection, Data Quality, SCD Type 2
 - Virtual Job Simulation Experience: PwC Power BI, British Airways Data Science, Quantium Analytics
 
 🤝 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/siddharthgada/
+LinkedIn: https://www.linkedin.com/in/siddharthgada/ <br>
 Gmail: gadasiddharth@gmail.com
 
 ### Outside Work: Basketball, Swimming, gym, hiking - last summer explored Yellowstone National Park!
