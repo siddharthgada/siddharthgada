@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! 👋 I'm Siddharth Gada
 
-<!--
-**siddharthgada/siddharthgada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Analytics Professional
+Passionate about transforming complex data into actionable insights and building scalable data infrastructure. Currently working in analytics while expanding expertise in cloud-native data engineering.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+Languages: Python, SQL, PySpark, CQL
+Cloud & Engineering: AWS (Redshift, Glue, S3, Athena), Apache Airflow, Apache Spark
+Analytics: Power BI, Tableau, DAX, Statistical Analysis
+Data Governance: PII Protection, Data Quality, SCD Type 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Current Focus
+- Building automated data pipelines with Airflow and AWS Glue
+- Designing lakehouse and data warehouse architectures
+- Creating interactive dashboards for business insights
+- Implementing data governance and quality practices
+
+### 🎓 Recent Learnings
+- Udacity Data Engineering with AWS Nanodegree
+- Virtual Job Simulation Experience: PwC Power BI, British Airways Data Science, Quantium Analytics
+
+🤝 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/siddharthgada/
+Gmail: gadasiddharth@gmail.com
+
+### Outside Work: Basketball, Swimming, gym, hiking - last summer explored Yellowstone National Park!
+
+### 📊 Mission: Building the next generation of data infrastructure, one pipeline at a time.
