@@ -4,10 +4,10 @@
 Passionate about transforming complex data into actionable insights and building scalable data infrastructure. Currently working in analytics while expanding expertise in cloud-native data engineering.
 
 ### 🛠️ Tech Stack
-Languages: Python, SQL, PySpark, CQL
-Cloud & Engineering: AWS (Redshift, Glue, S3, Athena), Apache Airflow, Apache Spark
-Analytics: Power BI, Tableau, DAX, Statistical Analysis
-Data Governance: PII Protection, Data Quality, SCD Type 2
+Languages: Python, SQL, PySpark, CQL <br>
+Cloud & Engineering: AWS (Redshift, Glue, S3, Athena), Apache Airflow, Apache Spark<br>
+Analytics: Power BI, Tableau, DAX, Statistical Analysis<br>
+Data Governance: PII Protection, Data Quality, SCD (Slowly Changing Dimensions) <br>
 
 ### 📊 Current Focus
 - Building automated data pipelines with Airflow and AWS Glue
