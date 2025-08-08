@@ -19,7 +19,7 @@ Data Governance: PII Protection, Data Quality, SCD Type 2
 - Udacity Data Engineering with AWS Nanodegree
 - Virtual Job Simulation Experience: PwC Power BI, British Airways Data Science, Quantium Analytics
 
-🤝 Let's Connect!
+🤝 Let's Connect! <br>
 LinkedIn: https://www.linkedin.com/in/siddharthgada/ <br>
 Gmail: gadasiddharth@gmail.com
 
